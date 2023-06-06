@@ -1,5 +1,5 @@
 # Microprocessor
 
-This contains design of a 4-bit microprocessor stimulation on Proteus, HEX file and Report of assignment in which code is explained.
+Design and Implementation of a 4-bit microprocessor Proteus.
 
 Go to MPS ASSIGNMENT.rar.
